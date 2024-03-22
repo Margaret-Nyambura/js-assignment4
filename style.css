@@ -1,0 +1,268 @@
+#website{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#topnav{
+    background-color: darkblue;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.word{
+    color: yellow;
+}
+
+#navbar{
+    display: flex;
+    gap: 250px;
+}
+.nav1{
+    display: flex;
+    gap: 40px;
+}
+.bn1{
+    border-radius: 20px;
+    width: 10%;
+    background-color: purple;
+    padding: 20px;
+}
+.bn2{
+    background-color: lightblue;
+    color: black;
+    border-radius: 20px;
+    width: 5%;
+    padding: 20px;
+
+}
+.bn3{
+    background-color: darkblue;
+    color: antiquewhite;
+    border-radius: 20px;
+    border: solid 1px black;
+    width: 5%;
+    padding: 20px;
+}
+.buttons{
+    display: flex;
+    gap: 150px;
+}
+.photo1{
+    margin-left: 25%;
+}
+.heroimage{
+    background-image: url("images/circles.jpg");
+}
+.word2{
+    color: brown;
+}
+#body-heading{
+    margin-left: 40%;
+    padding-top: 100px;
+}
+.icon1{
+    width: 100px;
+    height: 100px;
+}
+.icon2{
+    width: 80px;
+    height: 80px;
+}
+.icon3{
+    width: 80px;
+    height: 80px;
+}
+.logos1{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    padding-top: 100px;
+}
+.word3{
+    color: brown;
+}
+.tick1{
+    width: 30px;
+    height: 30px;
+}
+.tick2{
+    width: 30px;
+    height: 30px;
+}
+.tick3{
+    width: 30px;
+    height: 30px;
+}
+.tick4{
+    width: 30px;
+    height: 30px;
+}
+#body-part1{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    padding-top: 100px;
+}
+.head2{
+    font-size: 30px;
+}
+.phone2{
+    width: 400px;
+}
+.logo-texts{
+    display: flex;
+    gap: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.tick-logos{
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+    padding-top: 15px;
+}
+.texts{
+    font-size: 20px;
+}
+.text2{
+    font-size: large;
+}
+.bn4{
+    background-color: blueviolet;
+    border-radius: 20px;
+    border: solid 1px black;
+    width: 25%;
+    padding: 25px;
+    text-align: center;
+}
+.word4{
+    color: brown;
+}
+#body-part2{
+    text-align: center;
+    font-size: larger;
+    padding-top: 100px;
+    background-color: lightblue;
+}
+.phone3{
+    width: 400px;
+    height: 400px;
+    padding-top: 50px;
+}
+.bn5{
+    background-color: orangered;
+    border-radius: 20px;
+    width: 15%;
+    padding: 25px;
+    text-align: center;
+    margin-left: 40%;
+}
+.word5{
+    color: brown;
+}
+.bn6{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    width: 10%;
+    text-align: center;
+    padding-top: 25px;
+}
+.line1{
+    display: flex;
+    justify-content: space-around;
+}
+#body-part3{
+    padding-top: 90px;
+}
+#footer-images{
+    display: flex;
+    padding-top: 100px;
+    justify-content: space-around;
+}
+.laptop{
+    width: 300px;
+    height: 250px;
+}
+.lady{
+    width: 300px;
+    height: 250px;
+}
+.blur{
+    width: 300px;
+    height: 250px;
+}
+.word6{
+    color: lightskyblue;
+}
+.bn7{
+    background-color: antiquewhite;
+    color: lightblue;
+    border-radius: 20px;
+    width: 10%;
+    text-align: center;
+    padding-top: 25px;
+}
+.word7{
+    color: orange;
+}
+.bn8{
+    background-color: antiquewhite;
+    color: lightblue;
+    border-radius: 20px;
+    width: 10%;
+    text-align: center;
+    padding-top: 25px;
+}
+.word8{
+    color: blueviolet;
+}
+.bn9{
+    background-color: antiquewhite;
+    color: lightblue;
+    border-radius: 20px;
+    width: 10%;
+    text-align: center;
+    padding-top: 25px;
+}
+.word9{
+    color: wheat;
+}
+.word10{
+    color: orange;
+}
+.bn10{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    width: 40%;
+    text-align: center;
+    padding: 25px;
+}
+.smiley{
+
+}
+.footer-photo{
+   
+}
+.bottom-line-photos{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+
+}#last-image{
+    background-color: black;
+    border-radius: 50px;
+    padding-bottom: 50px;
+}
+#footer{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    color: white;
+}
+
+
